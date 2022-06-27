@@ -9,3 +9,4 @@ const tmp29: {} = 599;
 const tmp30: {} = { name: 'linbudu' };
 const tmp31: {} = () => {};
 const tmp32: {} = [];
+
